@@ -1,6 +1,5 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-<<<<<<<< HEAD:precache-manifest.58f8f12d9ddb8b7c05ad479e38b2b80e.js
     "revision": "b44d2b5f231b22e885eff2bee3229ff5",
     "url": "./index.html"
   },
@@ -67,74 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "419c467d088433238016",
     "url": "./static/js/runtime-main.624811dc.js"
-========
-    "revision": "b6ba64d1427d459f7373925edff658ed",
-    "url": "./index.html"
-  },
-  {
-    "revision": "3a285f53e0567c7566c1",
-    "url": "./static/css/0.71d4bb27.chunk.css"
-  },
-  {
-    "revision": "3dec4372fa0452ac37be",
-    "url": "./static/css/3.63165eeb.chunk.css"
-  },
-  {
-    "revision": "432f1a2c27fc629c6472",
-    "url": "./static/css/4.91edea38.chunk.css"
-  },
-  {
-    "revision": "3c44e0e4e48a81963917",
-    "url": "./static/css/5.bb2c2754.chunk.css"
-  },
-  {
-    "revision": "70fe9402d8e6e13d3aea",
-    "url": "./static/css/6.eac67c0b.chunk.css"
-  },
-  {
-    "revision": "19d704d1fd4b11436194",
-    "url": "./static/css/main.3f7d84d5.chunk.css"
-  },
-  {
-    "revision": "3a285f53e0567c7566c1",
-    "url": "./static/js/0.6795dffa.chunk.js"
-  },
-  {
-    "revision": "3dec4372fa0452ac37be",
-    "url": "./static/js/3.00d47203.chunk.js"
-  },
-  {
-    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "./static/js/3.00d47203.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "432f1a2c27fc629c6472",
-    "url": "./static/js/4.df5d9277.chunk.js"
-  },
-  {
-    "revision": "3c44e0e4e48a81963917",
-    "url": "./static/js/5.f8b67eb0.chunk.js"
-  },
-  {
-    "revision": "70fe9402d8e6e13d3aea",
-    "url": "./static/js/6.e1a6e0ed.chunk.js"
-  },
-  {
-    "revision": "1fe3340ac1bf4ab2eeb9",
-    "url": "./static/js/7.8318424c.chunk.js"
-  },
-  {
-    "revision": "0a14bbbbdc6170b04eb4",
-    "url": "./static/js/8.ed3545c4.chunk.js"
-  },
-  {
-    "revision": "19d704d1fd4b11436194",
-    "url": "./static/js/main.fcc34bdd.chunk.js"
-  },
-  {
-    "revision": "ba9842e886e1b67099ec",
-    "url": "./static/js/runtime-main.b705ec9f.js"
->>>>>>>> 606d5230c1ac9aae0a9cc3de67f228107a066a96:precache-manifest.d52fc70b3f93644786235dd8d21185b4.js
   },
   {
     "revision": "ab8abda0dad0bad308ab9387c3f4166b",
