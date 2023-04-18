@@ -1,2 +1,1 @@
 (this["webpackJsonpliliana-player"]=this["webpackJsonpliliana-player"]||[]).push([[7],{112:function(e,t,a){"use strict";a.r(t);var n=a(17),r=a(18),i=a(20),u=a(19),c=a(0),l=a.n(c),s=function(e){Object(i.a)(a,e);var t=Object(u.a)(a);function a(){return Object(n.a)(this,a),t.apply(this,arguments)}return Object(r.a)(a,[{key:"render",value:function(){return l.a.createElement("h2",null,"This website was created by Tuzaku :)")}}]),a}(c.Component);t.default=s}}]);
-//# sourceMappingURL=7.34fa566a.chunk.js.map
