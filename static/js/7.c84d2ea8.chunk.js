@@ -1,1 +1,2 @@
 (this["webpackJsonpliliana-player"]=this["webpackJsonpliliana-player"]||[]).push([[7],{69:function(e,a,n){"use strict";n.r(a);var s=n(0),t=n.n(s);class l extends s.Component{render(){return t.a.createElement("h2",null,"This website was created by Tuzaku :)")}}a.default=l}}]);
+//# sourceMappingURL=7.c84d2ea8.chunk.js.map
