@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkliliana_player=self.webpackChunkliliana_player||[]).push([[616],{616:(e,a,s)=>{s.r(a),s.d(a,{default:()=>t});var l=s(43),n=s(579);class r extends l.Component{render(){return(0,n.jsx)("h2",{children:"This website was created by Tuzaku :)"})}}const t=r}}]);
+//# sourceMappingURL=616.0ae588c0.chunk.js.map
